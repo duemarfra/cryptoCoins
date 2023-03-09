@@ -28,6 +28,10 @@ This app consumes a "free" database in firebase, so when you try it it probably 
 
 Run with "expo go":
 
+* install dependences
+
+        npm install
+
 * start local server
 
         npx expo start
